@@ -1,0 +1,55 @@
+body {
+	height: 100vh;
+ margin: 0; 
+ padding 0;
+	font-family: "font-family: "Gill Sans", sans-serif;", sans-serif;
+	background: url("photoceto.jpg") no-repeat center center fixed; 
+	background-size: cover;
+	  background-position: center center;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  display: flex;
+	
+	
+
+}
+ 
+    h1 {
+    	text-align: center;
+    	color: green;
+    	
+    }
+
+    hr {
+    	border-color: green;
+    	border-width: 3px;
+    	max-width: 70px;
+    	margin: 20px auto;
+    color: green;
+    border: 3px solid green;
+    max-width: 65px;
+    opacity: 1; 
+    }
+
+    .buffer {
+    	height: 32rem;
+    }
+
+    .btn {
+    	font-weight: 700;
+    	border-radius: 300px;
+    	text-transform:uppercase;
+    }
+
+    .btn-success:hover {
+    	background-color: green;
+    	border-color: green;
+    	border-width: 4px;
+    }
+
+    .btn-xl {
+    	padding: 1rem 2rem
+    }
