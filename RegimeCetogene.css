@@ -3,7 +3,7 @@ body {
  margin: 0; 
  padding 0;
 	font-family: "font-family: "Gill Sans", sans-serif;", sans-serif;
-	background: url("photoceto.jpg") no-repeat center center fixed; 
+	background: url("../img/photoceto.jpg") no-repeat center center fixed; 
 	background-size: cover;
 	  background-position: center center;
 
